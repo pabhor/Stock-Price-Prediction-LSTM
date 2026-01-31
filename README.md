@@ -68,24 +68,28 @@ Stock-Price-Prediction_LSTM/
 
 ## Dashboard Preview
 ![actual_vs_predicted](https://github.com/user-attachments/assets/be00b524-4d88-4fd0-b3d1-8e1d0eb066b7)
+![model_metrices](https://github.com/user-attachments/assets/042ca1c6-ca96-4254-b3fd-0d0c1a35b58d)
 
-[model_metrices](https://github.com/user-attachments/assets/6210654a-a52f-42ee-aa4a-b59b6d694d12)
+
 
 ### How to Run the Project
 
 - Clone the repository
 ```bash
-git clone https://github.com/pabhor/Stock-Price-Prediction-LSTM.git ```
+git clone https://github.com/pabhor/Stock-Price-Prediction-LSTM.git
+```
 
 - Install dependencies
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+ ```
 
 - Run notebooks (V1 / V2) from src/
 
 - Launch dashboard
 ```bash
-python src/dash_app.py ```
+python src/dash_app.py
+```
 
 ### Disclaimer!
 This project is for educational and research purposes only.
