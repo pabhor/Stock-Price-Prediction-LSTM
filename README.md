@@ -32,7 +32,9 @@ Stock-Price-Prediction_LSTM/
 ├── requirements.txt
 └── README.md
 
-## ⚙️ Methodology
+```
+
+## Methodology
 ### 1.Data Preprocessing
 - Converted dates to time-series format
 - Sorted data chronologically
@@ -73,17 +75,17 @@ Stock-Price-Prediction_LSTM/
 
 - Clone the repository
 ```bash
-git clone https://github.com/pabhor/Stock-Price-Prediction-LSTM.git
+git clone https://github.com/pabhor/Stock-Price-Prediction-LSTM.git ```
 
 - Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 - Run notebooks (V1 / V2) from src/
 
 - Launch dashboard
 ```bash
-python src/dash_app.py
+python src/dash_app.py ```
 
 ### Disclaimer!
 This project is for educational and research purposes only.
